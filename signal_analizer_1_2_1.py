@@ -6,8 +6,8 @@ from ssd1306 import SSD1306_I2C
 import sys
 
 # 📡 Configuração Wi-Fi
-SSID = "VIVOFIBRA-8378"      # Substitua pelo seu Wi-Fi
-PASSWORD = "banda365"        # Substitua pela senha do Wi-Fi
+SSID = "seu-wifi"      # Substitua pelo seu Wi-Fi
+PASSWORD = "sua-senha"        # Substitua pela senha do Wi-Fi
 UDP_IP = "192.168.15.171"    # IP do servidor que receberá os parâmetros
 UDP_PORT = 5005              # Porta do servidor
 
